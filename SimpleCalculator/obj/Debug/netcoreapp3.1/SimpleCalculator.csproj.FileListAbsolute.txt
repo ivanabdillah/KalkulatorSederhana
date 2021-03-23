@@ -1,0 +1,15 @@
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.Form1.resources
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.GenerateResource.cache
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+E:\ITS\Semester 6\Pemrograman Berbasis Kerangka Kerja\Tugas 2\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
